@@ -1,0 +1,17 @@
+{
+    "navbar": {
+        "main_feed": "Main Feed",
+        "chat": "Chat",
+        "profile": "Profile"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "language": {
+        "english": "English",
+        "russian": "Russian",
+        "uzbek": "Uzbek"
+    }
+}

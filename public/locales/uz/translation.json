@@ -1,0 +1,17 @@
+{
+    "navbar": {
+        "main_feed": "Bosh sahifa",
+        "chat": "Chat",
+        "profile": "Profil"
+    },
+    "theme": {
+        "light": "Yorug'",
+        "dark": "Qorong'i",
+        "system": "Tizim"
+    },
+    "language": {
+        "english": "Inglizcha",
+        "russian": "Ruscha",
+        "uzbek": "O'zbekcha"
+    }
+}
